@@ -7,3 +7,7 @@ on Raspberry PI 4 installed libraries
 pip install numpy
 pip install tensorflow
 pip install sounddevice
+pip install scipy
+pip install librosa
+pip install pillow
+sudo apt-get install python3-tk
