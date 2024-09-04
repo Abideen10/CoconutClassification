@@ -5,3 +5,5 @@
 on Raspberry PI 4 installed libraries
 ```sh
 pip install numpy
+pip install tensorflow
+pip install sounddevice
